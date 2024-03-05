@@ -10,8 +10,7 @@ namespace PizzaStore
     {
         public void Start()
         {
-            // Assuming Pizza, Customer, and Order classes are defined elsewhere within the PizzaStore namespace
-
+            
             // Creating pizzas
             Pizza pizza1 = new Pizza("Margherita", 75m);
             Pizza pizza2 = new Pizza("Pepperoni", 85m);
