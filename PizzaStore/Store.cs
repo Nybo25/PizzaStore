@@ -11,7 +11,7 @@ namespace PizzaStore
         public void Start()
         {
             
-            // Creating pizzas
+            // Creating pizzas 
             Pizza pizza1 = new Pizza("Margherita", 75m);
             Pizza pizza2 = new Pizza("Pepperoni", 85m);
             Pizza pizza3 = new Pizza("Hawaiian", 80m);
